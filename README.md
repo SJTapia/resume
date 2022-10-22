@@ -4,13 +4,18 @@ This section is a little boring; it really just contains the different ways in w
 **Name**
 - Samuel J. Tapia
 
-**Address**
-- 309 S Forest Ave Joplin, MO 64801
+**Email Address**
+- samueljtapia5@gmail.com
 
 **Phone Nummber**
 - 417-365-0340
 
-**Email Address**
-- samueljtapia5@gmail.com
+
+And, as promised, here's my pup Charlie. He's pretty ornery most of the time, but he's a good boy and nice to have around:
+
+![My dog Charlie](https://photos.app.goo.gl/8ampovBe6tTaLS6v8)
+
+
+
 
 [Return to cover letter](https://github.com/SJTapia/resume/tree/main)
