@@ -11,10 +11,6 @@ I like to think of my schooling as an investment I've made into any future compa
 
 As a bit of fun, here's the most recent (as of 10/21/22) program I wrote for my programming class:
 
- # Samuel J. Tapia
- # October 14, 2022
- # INFOTC 1040, Challenge: Number Stats in Dictionary
-
  numbers_list = []
 
  def numbers_dictionary():
