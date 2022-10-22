@@ -11,4 +11,7 @@ In terms of my work experience, I like to think that I'm pretty dedicated. The f
 - Julyish of 2010 to April of 2022
 - I carried many positions throughout my tenure with this company. Here's a list:
   1. Benefit Advocate
-    - I took 
+  2. Learning and Development Specialist 
+  3. Learning Captain (this was a fun way to say lead trainer/assistant training manager)
+  4. Operations Supervisor
+  5. Assistant Contact Center Manager 
