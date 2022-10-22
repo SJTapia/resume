@@ -4,3 +4,5 @@ In terms of my work experience, I like to think that I'm pretty dedicated. The f
 ### Alorica 
 - Deposits Operation Specialist
   - August 2022 to Current
+- Responsibilities
+  - I could type up a bunch of fancy things about what I do, but in essence I take phone calls for a bank and act as a bank teller. This position does currently afford me the opportunity to learn plenty abount managing finances, handling difficulty personality, working quickly, and finding ways to increase efficiences in every day processes.
