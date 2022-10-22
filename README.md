@@ -3,6 +3,7 @@ This section is a little boring; it really just contains the different ways in w
 
 **Name**
 - Samuel J. Tapia
+
 **Address**
 - 309 S Forest Ave Joplin, MO 64801
 
