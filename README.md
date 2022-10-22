@@ -5,7 +5,7 @@ I had a little bit of a rocky start in getting going with furthering my educatio
 
 ### Missouri Souther State University
 **Attended:** Fall of 2021 to Spring of 2022
-**Area of Study:*** Finance
+**Area of Study:** Finance
 **GPA at time of transfer:** 4.0
 
 ### University of Missouri - Columbia
