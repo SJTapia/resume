@@ -14,7 +14,7 @@ I had a little bit of a rocky start in getting going with furthering my educatio
 - **Current GPA:** _I'll let you know once I know_
 
 ### Certifications
-- **Microsoft Excel Office Specialist
+- Microsoft Excel Office Specialist
   - **Earned:** April 2022
 
 
