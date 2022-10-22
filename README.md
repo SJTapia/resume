@@ -84,4 +84,5 @@ As a bit of fun, here's the most recent (as of 10/21/22) program I wrote for my 
  numbers_dictionary()
 
 
+
 [Return to cover letter](https://github.com/SJTapia/resume/tree/main)
