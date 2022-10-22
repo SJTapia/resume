@@ -13,7 +13,7 @@ This section is a little boring; it really just contains the different ways in w
 
 And, as promised, here's my pup Charlie. He's pretty ornery most of the time, but he's a good boy and nice to have around:
 
-![My dog Charlie](https://photos.app.goo.gl/8ampovBe6tTaLS6v8)
+![My dog Charlie](https://photos.app.goo.gl/QjzQSGvKupv4Y5yf7)
 
 
 
