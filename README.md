@@ -15,3 +15,5 @@ In terms of my work experience, I like to think that I'm pretty dedicated. The f
   3. Learning Captain (this was a fun way to say lead trainer/assistant training manager)
   4. Operations Supervisor
   5. Assistant Contact Center Manager 
+
+- Responsibilities
