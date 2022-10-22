@@ -5,8 +5,10 @@ This section is a little boring; it really just contains the different ways in w
 - Samuel J. Tapia
 **Address**
 - 309 S Forest Ave Joplin, MO 64801
+
 **Phone Nummber**
 - 417-365-0340
+
 **Email Address**
 - samueljtapia5@gmail.com
 
