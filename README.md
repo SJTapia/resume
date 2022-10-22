@@ -13,5 +13,9 @@ I had a little bit of a rocky start in getting going with furthering my educatio
 - **Area of Study:** Information Technology - Software Engineer
 - **Current GPA:** _I'll let you know once I know_
 
+### Certifications
+- **Microsoft Excel Office Specialist
+  - **Earned:** April 2022
+
 
 [Return to cover letter](https://github.com/SJTapia/resume/tree/main)
