@@ -5,7 +5,7 @@ To start, I'd like to provide a bit of information about myself. I consider my u
 
 **Below you'll find a series of links that will guide you through the rest of this resume. I hope you enjoy the trip and can't wait to hear from you!**
 
-<div align='center'>[Demographics](https://github.com/SJTapia/resume/tree/Demographics) | [Experience](https://github.com/SJTapia/resume/blob/Experience/README.md) | [Education](https://github.com/SJTapia/resume/blob/Education/README.md) | [Current Classes](https://github.com/SJTapia/resume/blob/Current-Classes/README.md
+<div align="center">[Demographics](https://github.com/SJTapia/resume/tree/Demographics) | [Experience](https://github.com/SJTapia/resume/blob/Experience/README.md) | [Education](https://github.com/SJTapia/resume/blob/Education/README.md) | [Current Classes](https://github.com/SJTapia/resume/blob/Current-Classes/README.md
 ) | [Extracurricular](https://github.com/SJTapia/resume/blob/Extracurricular/README.md)</div>
 
 
