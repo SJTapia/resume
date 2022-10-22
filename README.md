@@ -79,7 +79,6 @@ As a bit of fun, here's the most recent (as of 10/21/22) program I wrote for my 
          result = "The range of the numbers is: {}"
          print(result.format(numbers.get("Range")))
 
-
  #calls the function
  numbers_dictionary()
 
